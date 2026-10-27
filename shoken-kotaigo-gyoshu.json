@@ -6,7 +6,12 @@
  "category": "近代歌集",
  "kind": "kashu",
  "author": "昭憲皇太后",
- "description": null,
+ "description": {
+  "kind": "御集（近代の歌集）",
+  "era": "大正時代に編集・刊行",
+  "author": "昭憲皇太后",
+  "desc": "明治天皇の皇后、昭憲皇太后の御歌を年ごとに収めた歌集。"
+ },
  "editions": [
   {
    "pid": "1181878",
